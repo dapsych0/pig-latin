@@ -1,0 +1,7 @@
+<phpunit>
+    <testsuites>
+        <testsuite name="Pig Latin Testy Suite">
+            <directory>./tests/src</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
