@@ -1,6 +1,6 @@
 <phpunit>
     <testsuites>
-        <testsuite name="Pig Latin Testy Suite">
+        <testsuite name="Pig Latin Test Suite">
             <directory>./tests/src</directory>
         </testsuite>
     </testsuites>
